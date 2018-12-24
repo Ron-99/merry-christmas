@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+*{
+    font-family: Consolas, 'Courier New', monospace;
+}
+
+body{
+    background: #333;
+    text-align: center;
+    color:rgb(37, 172, 19);
+    font-size: 30px;
+}
+
+.arvore{
+    line-height: 0;
+    font-size: 50px;
+}
+
+#star{
+    color:rgb(226, 223, 47);
+}
+
+#corpo{
+    color:rgb(29, 185, 29);
+}
+
+#base{
+    color:#fff;
+}
+
+.branco{
+    color:#fff;
+}
+.vermelho{
+    color:rgb(246, 69, 69);
+}
+
+.azul{
+    color:rgb(51, 48, 241);
+}
+
+.roxo{
+    color:rgb(183, 78, 231);
+}
